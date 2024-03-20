@@ -48,6 +48,8 @@
 
 button{
   padding: 14px 32px;
+  margin-left: 2px;
+  margin-right: 2px;
   background-color: black;
   border-radius: 500px;
   font-size: inherit;
